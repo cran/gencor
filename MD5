@@ -1,0 +1,7 @@
+a8296e788f60af5ab371e89376d5c7c4 *DESCRIPTION
+1d9409213c0569c9484e979edfc2f014 *NAMESPACE
+1c31499f3bcb4ca6b9b063fd5fe9f7c0 *R/gencor.R
+2877b644bb27b76f5e5015ed346cfcd5 *man/gencor.Rd
+0fddbc088688470affc0b748c06b115b *tests/testthat.R
+9d259d897b4c6f0c86056dfd03837350 *tests/testthat/desktop.ini
+73cf3b1a79bee927a89648f51c6d2c4c *tests/testthat/test-gencor.R
