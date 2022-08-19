@@ -1,7 +1,7 @@
-a8296e788f60af5ab371e89376d5c7c4 *DESCRIPTION
-1d9409213c0569c9484e979edfc2f014 *NAMESPACE
-1c31499f3bcb4ca6b9b063fd5fe9f7c0 *R/gencor.R
-2877b644bb27b76f5e5015ed346cfcd5 *man/gencor.Rd
+4e1d407637b208158fff1f2348d2f0b7 *DESCRIPTION
+36648a68219cd0570f5a15542477769d *NAMESPACE
+b996f7536f2f59f225ec8d545d3f67e2 *R/gencor.R
+3e21bb8f788280924bad1fcfd6d1ccec *README.md
+110982e47dbe8cac7f5148e9c26e0da7 *man/gencor.Rd
 0fddbc088688470affc0b748c06b115b *tests/testthat.R
-9d259d897b4c6f0c86056dfd03837350 *tests/testthat/desktop.ini
 73cf3b1a79bee927a89648f51c6d2c4c *tests/testthat/test-gencor.R
