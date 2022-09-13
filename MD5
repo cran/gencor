@@ -1,7 +1,7 @@
-4e1d407637b208158fff1f2348d2f0b7 *DESCRIPTION
+f18920ec01a484c3efe1c4daa8a30667 *DESCRIPTION
 36648a68219cd0570f5a15542477769d *NAMESPACE
-b996f7536f2f59f225ec8d545d3f67e2 *R/gencor.R
+627e25b02738edb7f0d0e0f40a7b8b34 *R/gencor.R
 3e21bb8f788280924bad1fcfd6d1ccec *README.md
-110982e47dbe8cac7f5148e9c26e0da7 *man/gencor.Rd
+f44cd2eed26317e13cbc604a5c23c35d *man/gencor.Rd
 0fddbc088688470affc0b748c06b115b *tests/testthat.R
 73cf3b1a79bee927a89648f51c6d2c4c *tests/testthat/test-gencor.R

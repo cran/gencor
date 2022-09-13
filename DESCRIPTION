@@ -1,7 +1,7 @@
 Package: gencor
 Type: Package
 Title: Generate Customized Correlation Matrices
-Version: 1.0.1
+Version: 1.0.2
 Depends: base,
 Author: Helgem de Souza Ribeiro Martins[aut, cre], Anderson Ribeiro Duarte[aut]
 Maintainer: Helgem de Souza Ribeiro Martins <helgem.souza@gmail.com>
@@ -12,6 +12,6 @@ Suggests: testthat (>= 3.0.0)
 RoxygenNote: 7.2.1
 Config/testthat/edition: 3
 NeedsCompilation: no
-Packaged: 2022-08-19 13:33:50 UTC; UFOP
+Packaged: 2022-09-13 13:59:09 UTC; UFOP
 Repository: CRAN
-Date/Publication: 2022-08-19 13:50:02 UTC
+Date/Publication: 2022-09-13 14:30:02 UTC
